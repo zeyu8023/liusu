@@ -14,6 +14,25 @@
 
 它需要连接你已有的下载器，不提供下载资源，也不代替下载器本身运行下载任务。
 
+## 📱 界面预览
+
+总览、任务管理、统计、设置与关于页面实机截图，点击图片可查看大图。
+
+<table>
+  <tr><th>总览</th><th>任务管理</th><th>统计</th></tr>
+  <tr>
+    <td><a href="docs/screenshots/overview.jpg"><img src="docs/screenshots/overview.jpg" alt="流速总览与服务器卡片" width="240"></a></td>
+    <td><a href="docs/screenshots/tasks.jpg"><img src="docs/screenshots/tasks.jpg" alt="流速任务列表与详细卡片" width="240"></a></td>
+    <td><a href="docs/screenshots/statistics.jpg"><img src="docs/screenshots/statistics.jpg" alt="流速累计传输与任务统计" width="240"></a></td>
+  </tr>
+  <tr><th>设置</th><th>关于流速</th><th></th></tr>
+  <tr>
+    <td><a href="docs/screenshots/settings.jpg"><img src="docs/screenshots/settings.jpg" alt="流速个人设置与主题配色" width="240"></a></td>
+    <td><a href="docs/screenshots/about.jpg"><img src="docs/screenshots/about.jpg" alt="关于流速与功能介绍" width="240"></a></td>
+    <td></td>
+  </tr>
+</table>
+
 ## 🧰 主要功能
 
 | 功能 | 说明 |
